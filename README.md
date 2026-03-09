@@ -39,4 +39,23 @@ Android automation using Appium + Java
 
 ## Contact
 Email: vishalgopal454@gmail.com
-LinkedIn: (Add LinkedIn link)
+LinkedIn: https://www.linkedin.com/in/vishal-gopal-303347197/
+
+
+## Automation Projects
+
+### Selenium Automation Framework
+Tech Stack: Java, Selenium WebDriver, TestNG, Maven  
+Features: Page Object Model, Parallel Execution, Extent Reports, CI/CD Integration
+
+### Playwright Automation Framework
+Tech Stack: Playwright, TypeScript  
+Features: Parallel test execution, Page Object Model, HTML Reports
+
+### REST Assured API Automation
+Tech Stack: Java, REST Assured, TestNG  
+Features: API request validation, authentication handling, response schema validation
+
+### Appium Mobile Automation
+Tech Stack: Appium, Java, Android Emulator  
+Features: Mobile UI automation, gesture testing, end-to-end workflow validation
