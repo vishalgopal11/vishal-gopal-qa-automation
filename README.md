@@ -7,7 +7,6 @@
 QA Automation Engineer with 4+ years of experience in Web, API, and Mobile automation testing.
 
 Experienced in building scalable automation frameworks using:
-
 - Selenium WebDriver
 - Playwright
 - Appium (Android)
@@ -15,7 +14,6 @@ Experienced in building scalable automation frameworks using:
 - CI/CD (Jenkins, GitLab)
 
 ## Automation Skills
-
 UI Automation  
 API Automation  
 Mobile Automation  
@@ -26,27 +24,8 @@ CI/CD Integration
 ## Automation Projects
 
 ### Selenium Automation Framework
-Java + Selenium + TestNG + Maven + POM
-
-### Playwright Automation Framework
-TypeScript + Playwright + Parallel execution
-
-### REST Assured API Automation
-Java + REST Assured + TestNG
-
-### Appium Mobile Automation
-Android automation using Appium + Java
-
-## Contact
-Email: vishalgopal454@gmail.com
-LinkedIn: https://www.linkedin.com/in/vishal-gopal-303347197/
-
-
-## Automation Projects
-
-### Selenium Automation Framework
 Tech Stack: Java, Selenium WebDriver, TestNG, Maven  
-Features: Page Object Model, Parallel Execution, Extent Reports, CI/CD Integration
+Features: Page Object Model (POM), Parallel Execution, Extent Reports, CI/CD Integration
 
 ### Playwright Automation Framework
 Tech Stack: Playwright, TypeScript  
@@ -59,3 +38,7 @@ Features: API request validation, authentication handling, response schema valid
 ### Appium Mobile Automation
 Tech Stack: Appium, Java, Android Emulator  
 Features: Mobile UI automation, gesture testing, end-to-end workflow validation
+
+## Contact
+Email: vishalgopal454@gmail.com  
+LinkedIn: https://www.linkedin.com/in/vishal-gopal-303347197/
