@@ -42,3 +42,18 @@ Features: Mobile UI automation, gesture testing, end-to-end workflow validation
 ## Contact
 Email: vishalgopal454@gmail.com  
 LinkedIn: https://www.linkedin.com/in/vishal-gopal-303347197/
+
+
+## GitHub Automation Repositories
+
+🔹 Selenium Java Automation Framework  
+Repository: https://github.com/vishalgopal11/Java_Selenium  
+
+🔹 Playwright TypeScript Automation Framework  
+Repository: https://github.com/vishalgopal11/Playwright_TypeScript  
+
+🔹 REST Assured API Automation Framework  
+Repository: https://github.com/vishalgopal11/API_Testing-using-RestAssured  
+
+🔹 Appium Android Automation Framework  
+Repository: https://github.com/vishalgopal11/Appium_MobileTesting 
